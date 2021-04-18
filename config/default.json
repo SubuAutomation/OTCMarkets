@@ -1,0 +1,13 @@
+
+{
+    "Conf": {
+      "proxy": {
+        "proxy_server": "localhost:8080",
+        "username": "subrata@1",
+        "password": "testpassword"
+      },
+      "url": {
+        "testUrl":"https://www.otcmarkets.com"  
+    }
+  }
+}
